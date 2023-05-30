@@ -1,3 +1,4 @@
 ## Regex.replace.js
-Ateração de padrão de data
-#### A função replace do JavaScript com expressões regulares (regex) permite encontrar e substituir partes específicas de uma string por outras. Isso é útil para processar e transformar strings de várias formas, como remover caracteres indesejados, substituir palavras ou até mesmo extrair informações de uma string com base em um padrão específico. Neste exemplo foi feita a alteração de data padrão EUA para Pt-Br
+### Date pattern change
+
+#### JavaScript's replace function with regular expressions (regex) lets you find and replace specific parts of a string with others. This is useful for processing and transforming strings in a variety of ways, such as removing unwanted characters, replacing words, or even extracting information from a string based on a specific pattern. In this example, the US standard date was changed to Pt-Br
